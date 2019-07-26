@@ -7,6 +7,7 @@ body {
 * {
   box-sizing: border-box
 }
+.project-ex{ font-size:12px;}
 /*NAVBAR*/
 .navbar {
   background-color: #31b0d5;
